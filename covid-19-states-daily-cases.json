@@ -1,5 +1,24 @@
 [
  {
+   "date": "13/3/2020",
+   "perlis": 1,
+   "kedah": 5,
+   "pulau-pinang": 7,
+   "perak": 2,
+   "selangor": 105,
+   "negeri-sembilan": 11,
+   "melaka": 1,
+   "johor": 16,
+   "pahang": 2,
+   "terengganu": 0,
+   "kelantan": 3,
+   "sabah": 15,
+   "sarawak": 0,
+   "wp-kuala-lumpur": 26,
+   "wp-putrajaya": 1,
+   "wp-labuan": 2
+ },
+ {
    "date": "16/3/2020",
    "perlis": 8,
    "kedah": 31,
