@@ -2239,5 +2239,88 @@
       "dose_1": 15900,
       "dose_2": 13092
     }
+  },
+  {
+    "date": "2021-06-10",
+    "perlis": {
+      "registered": 91344,
+      "dose_1": 40557,
+      "dose_2": 20745
+    },
+    "kedah": {
+      "registered": 720319,
+      "dose_1": 182683,
+      "dose_2": 75299
+    },
+    "pulau-pinang": {
+      "registered": 837831,
+      "dose_1": 128945,
+      "dose_2": 74919
+    },
+    "perak": {
+      "registered": 908201,
+      "dose_1": 216548,
+      "dose_2": 110610
+    },
+    "selangor": {
+      "registered": 3370403,
+      "dose_1": 398773,
+      "dose_2": 157671
+    },
+    "negeri-sembilan": {
+      "registered": 500784,
+      "dose_1": 96517,
+      "dose_2": 61508
+    },
+    "melaka": {
+      "registered": 398204,
+      "dose_1": 69227,
+      "dose_2": 36972
+    },
+    "johor": {
+      "registered": 1586153,
+      "dose_1": 251726,
+      "dose_2": 113171
+    },
+    "pahang": {
+      "registered": 545204,
+      "dose_1": 135641,
+      "dose_2": 83339
+    },
+    "terengganu": {
+      "registered": 369662,
+      "dose_1": 92264,
+      "dose_2": 56344
+    },
+    "kelantan": {
+      "registered": 464531,
+      "dose_1": 137088,
+      "dose_2": 61769
+    },
+    "sabah": {
+      "registered": 586927,
+      "dose_1": 204078,
+      "dose_2": 98910
+    },
+    "sarawak": {
+      "registered": 1257079,
+      "dose_1": 261225,
+      "dose_2": 128468
+    },
+    "wp-kuala-lumpur": {
+      "registered": 1052012,
+      "dose_1": 463878,
+      "dose_2": 113466
+    },
+    "wp-putrajaya": {
+      "registered": 68829,
+      "dose_1": 28442,
+      "dose_2": 14432
+    },
+    "wp-labuan": {
+      "registered": 42319,
+      "dose_1": 16498,
+      "dose_2": 13136
+    }
   }
 ]
