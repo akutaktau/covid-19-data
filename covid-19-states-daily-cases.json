@@ -9935,5 +9935,43 @@
         "wp-kuala-lumpur": 1220,
         "wp-putrajaya": 0,
         "wp-labuan": 0
+    },
+    {
+        "date": "2021-08-22",
+        "perlis": 54,
+        "kedah": 1948,
+        "pulau-pinang": 1501,
+        "perak": 703,
+        "selangor": 5379,
+        "negeri-sembilan": 508,
+        "melaka": 558,
+        "johor": 1391,
+        "pahang": 598,
+        "terengganu": 534,
+        "kelantan": 1196,
+        "sabah": 2638,
+        "sarawak": 1772,
+        "wp-kuala-lumpur": 999,
+        "wp-putrajaya": 0,
+        "wp-labuan": 0
+    },
+    {
+        "date": "2021-08-23",
+        "perlis": 57,
+        "kedah": 1602,
+        "pulau-pinang": 1451,
+        "perak": 952,
+        "selangor": 4316,
+        "negeri-sembilan": 478,
+        "melaka": 363,
+        "johor": 1367,
+        "pahang": 506,
+        "terengganu": 470,
+        "kelantan": 1176,
+        "sabah": 2474,
+        "sarawak": 1538,
+        "wp-kuala-lumpur": 891,
+        "wp-putrajaya": 0,
+        "wp-labuan": 0
     }
 ]
