@@ -10106,5 +10106,24 @@
         "wp-kuala-lumpur": 672,
         "wp-putrajaya": 0,
         "wp-labuan": 0
+    },
+    {
+        "date": "2021-08-31",
+        "perlis": 64,
+        "kedah": 1942,
+        "pulau-pinang": 1732,
+        "perak": 1204,
+        "selangor": 4371,
+        "negeri-sembilan": 215,
+        "melaka": 417,
+        "johor": 2159,
+        "pahang": 798,
+        "terengganu": 608,
+        "kelantan": 1479,
+        "sabah": 2594,
+        "sarawak": 2285,
+        "wp-kuala-lumpur": 1003,
+        "wp-putrajaya": 0,
+        "wp-labuan": 0
     }
 ]
