@@ -10828,5 +10828,24 @@
         "wp-kuala-lumpur": 0,
         "wp-putrajaya": 0,
         "wp-labuan": 0
+    },
+    {
+        "date": "2021-10-08",
+        "perlis": 0,
+        "kedah": 0,
+        "pulau-pinang": 1,
+        "perak": 0,
+        "selangor": 5,
+        "negeri-sembilan": 1,
+        "melaka": 3,
+        "johor": 0,
+        "pahang": 0,
+        "terengganu": 0,
+        "kelantan": 0,
+        "sabah": 4,
+        "sarawak": 0,
+        "wp-kuala-lumpur": 1,
+        "wp-putrajaya": 0,
+        "wp-labuan": 0
     }
 ]
