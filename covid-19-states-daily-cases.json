@@ -12443,5 +12443,43 @@
         "wp-kuala-lumpur": 245,
         "wp-putrajaya": 0,
         "wp-labuan": 0
+    },
+    {
+        "date": "2022-01-01",
+        "perlis": 22,
+        "kedah": 286,
+        "pulau-pinang": 215,
+        "perak": 201,
+        "selangor": 843,
+        "negeri-sembilan": 124,
+        "melaka": 191,
+        "johor": 470,
+        "pahang": 283,
+        "terengganu": 152,
+        "kelantan": 386,
+        "sabah": 272,
+        "sarawak": 25,
+        "wp-kuala-lumpur": 229,
+        "wp-putrajaya": 0,
+        "wp-labuan": 0
+    },
+    {
+        "date": "2022-01-02",
+        "perlis": 18,
+        "kedah": 270,
+        "pulau-pinang": 177,
+        "perak": 178,
+        "selangor": 797,
+        "negeri-sembilan": 106,
+        "melaka": 164,
+        "johor": 437,
+        "pahang": 214,
+        "terengganu": 139,
+        "kelantan": 308,
+        "sabah": 185,
+        "sarawak": 17,
+        "wp-kuala-lumpur": 163,
+        "wp-putrajaya": 0,
+        "wp-labuan": 0
     }
 ]
